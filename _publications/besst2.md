@@ -2,7 +2,7 @@
 title: "Assembly scaffolding with PE-contaminated mate-pair libraries"
 collection: publications
 permalink: /publication/besst2
-excerpt: 'This paper presents a method and its implementation to do reference-free clustering of long transcript reads into genes.'
+excerpt: 'This paper presents methodology improvements to the de novo assembly scaffolder BESST.'
 date: 2016-03-09
 venue: 'Bioinformatics'
 paperurl: 'https://academic.oup.com/bioinformatics/article/32/13/1925/1742757'

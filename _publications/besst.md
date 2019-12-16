@@ -1,16 +1,16 @@
 ---
-title: "Assembly scaffolding with PE-contaminated mate-pair libraries"
+title: "BESST- Efficient scaffolding of large fragmented assemblies"
 collection: publications
-permalink: /publication/besst2
-excerpt: 'This paper presents a method and its implementation to do reference-free clustering of long transcript reads into genes.'
-date: 2016-03-09
-venue: 'Bioinformatics'
-paperurl: 'https://academic.oup.com/bioinformatics/article/32/13/1925/1742757'
-citation: 'Kristoffer Sahlin†, Rayan Chikhi, and Lars Arvestad. (2016). &quot;Assembly scaffolding with pe-contaminatedmate-pair libraries.&quot; <i>Bioinformatics</i>.  32(13):1925–1932.'
+permalink: /publication/besst
+excerpt: 'This paper presents a de novo assembly scaffolder BESST.'
+date: 2014-08-15
+venue: 'BMC Bioinformatics'
+paperurl: 'https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-281'
+citation: 'Kristoffer Sahlin†, Francesco Vezzi, Björn. Nystedt, Joakim Lundeberg, and Lars Arvestad. (2014). &quot;BESST- Efficient scaffolding of large fragmented assemblies.&quot; <i>BMC Bioinformatics</i>. 15(1):281.'
 ---
 
-This paper presents methodology improvements to the de novo assembly scaffolder BESST.
+This paper presents a method to perform de novo assembly scaffolder BESST. It employs methods based on a statistical model presented in <u><a href="https://academic.oup.com/bioinformatics/article/28/17/2215/246308">previous work</a>.</u>. 
 
-[Download paper here](https://academic.oup.com/bioinformatics/article/32/13/1925/1742757)
+[Download paper here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-281)
 
-Recommended citation: Kristoffer Sahlin†, Rayan Chikhi, and Lars Arvestad. (2016). &quot;Assembly scaffolding with pe-contaminatedmate-pair libraries.Bioinformatics..&quot; <i>Bioinformatics</i>.  32(13)
+
