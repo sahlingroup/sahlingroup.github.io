@@ -12,4 +12,4 @@ This paper highlights size bias in calling structural variations (specifically i
 
 [Download the preprint version here](https://www.biorxiv.org/content/10.1101/023929v1.full.pdf)
 
-Recommended citation: Kristoffer Sahlin†, Mattias Frånberg, and Lars Arvestad. (2017). &quot;Structural Variation Detection with Read Pair Information: An Improved Null-Hypothesis Reduces Bias.&quot; <i>Journal of Computational Biology</i>. 24(6):581–589.
+<!-- Recommended citation: Kristoffer Sahlin†, Mattias Frånberg, and Lars Arvestad. (2017). &quot;Structural Variation Detection with Read Pair Information: An Improved Null-Hypothesis Reduces Bias.&quot; <i>Journal of Computational Biology</i>. 24(6):581–589. -->

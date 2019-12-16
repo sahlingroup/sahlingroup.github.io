@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+A selected list of publications is presented below. You can find a complete list of my papers on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
+<!-- {% if author.googlescholar %}
   You can find a complete list of my papers on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 

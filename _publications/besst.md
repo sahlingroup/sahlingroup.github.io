@@ -13,4 +13,4 @@ This paper presents methodology improvements to the de novo assembly scaffolder 
 
 [Download paper here](https://academic.oup.com/bioinformatics/article/32/13/1925/1742757)
 
-<!-- Recommended citation: Kristoffer Sahlin†, Rayan Chikhi, and Lars Arvestad. (2016). &quot;Assembly scaffolding with pe-contaminatedmate-pair libraries.Bioinformatics..&quot; <i>Bioinformatics</i>.  32(13):1925–1932. -->
+Recommended citation: Kristoffer Sahlin†, Rayan Chikhi, and Lars Arvestad. (2016). &quot;Assembly scaffolding with pe-contaminatedmate-pair libraries.Bioinformatics..&quot; <i>Bioinformatics</i>.  32(13)
