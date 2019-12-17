@@ -13,7 +13,7 @@ We use statistical modeling and algorithms to develop methods for analyzing larg
 Principal Investigator Biography
 ======
 
-I am an Assistant Professor at Stockholm University (the Department of Mathematics) and SciLifeLab Fellow at the national center for molecular biosciences, Science for Life Laboratory. I obtained my PhD in Computer science from KTH Royal institute of Technology and I have worked as a Posdoctoral researcher at Pennsylvania State University and at University of Helsinki. Before that I obtained a bachelor's degree in mathematics and a master's degree in mathematical statistics from Stockholm University, Sweden. See my <u><a href="http://ksahlin.github.io/files/ksahlin_CV.pdf">full CV</a>.</u>
+I am an Assistant Professor at Stockholm University (the Department of Mathematics) and SciLifeLab Fellow at the national center for molecular biosciences, Science for Life Laboratory. I obtained my PhD in Computer science from KTH Royal institute of Technology and I have worked as a Postdoctoral researcher at Pennsylvania State University and at University of Helsinki. Before that I obtained a bachelor's degree in mathematics and a master's degree in mathematical statistics from Stockholm University, Sweden. See my <u><a href="http://ksahlin.github.io/files/ksahlin_CV.pdf">full CV</a>.</u>
 
 
 
