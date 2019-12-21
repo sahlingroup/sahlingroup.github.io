@@ -12,5 +12,4 @@ This paper presents a method and its implementation to do reference-free cluster
 
 [Download paper here](https://www.biorxiv.org/content/10.1101/463463v1.full.pdf)
 
-<!-- Recommended citation: Kristoffer Sahlin, Paul Medvedev (2019) "De Novo Clustering of Long-Read Transcriptome Data Using a Greedy, Quality-Value Based Algorithm" <i>RECOMB 2019 (To appear in Journal of Computational Biology)</i>. pp. 227-242.
- -->
+Recommended citation: Kristoffer Sahlin, Paul Medvedev (2019) "De Novo Clustering of Long-Read Transcriptome Data Using a Greedy, Quality-Value Based Algorithm" <i>RECOMB 2019 (To appear in Journal of Computational Biology)</i>. pp. 227-242.
