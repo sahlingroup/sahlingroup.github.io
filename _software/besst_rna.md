@@ -1,11 +1,11 @@
 ---
 title: "BESST_RNA"
 collection: software
-permalink: /software/besst
-excerpt: 'This paper presents a de novo genome assembly scaffolder BESST.'
-date: 2014-08-15
+permalink: /software/besst_rna
+excerpt: 'A de novo genome assembly scaffolder using RNA-seq data.'
+date: 2015-08-15
 ---
 
-BESST is a software to perform de novo genome assembly scaffolding using Illumina mate-pairs or paired-end reads.
+BESST_RNA is a software to perform de novo genome assembly scaffolding using Illumina mate-pairs or paired-end reads.
 
 Installation and user instructions are found on [Github page](https://github.com/ksahlin/BESST).
