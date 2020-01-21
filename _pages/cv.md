@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+See my <u><a href="http://sahlingroup.github.io/files/ksahlin_CV.pdf">full CV here</a>.</u>
+
 {% include base_path %}
 
 Education
