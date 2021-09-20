@@ -22,7 +22,7 @@ author_profile: true
 
 [BESST](https://github.com/ksahlin/BESST) is a software to perform de novo genome assembly scaffolding using Illumina mate-pairs or paired-end reads.
 
-[BESST_RNA](https://github.com/ksahlin/BESST_RNA) is a software to perform de novo genome assembly scaffolding using Illumina mate-pairs or paired-end reads.
+[BESST_RNA](https://github.com/ksahlin/BESST_RNA) is a software to perform de novo genome assembly scaffolding using Illumina paired-end RNA-seq reads.
 
 
 <h1>Alignment, mapping and sequence comparison</h1>
