@@ -19,6 +19,7 @@ redirect_from:
   * _posts/
   * _teaching/
   * _positions/
+  * _group/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
