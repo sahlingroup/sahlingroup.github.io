@@ -20,6 +20,7 @@ author_profile: true
 \
 \
 
+
 **Alexander Petri (PhD student)**
 
 <img align="left" width="15%" src="http://sahlingroup.github.io/files/PetriPicture.jpg"> 
@@ -30,6 +31,9 @@ author_profile: true
 \
 \
 \
+\
+\
+
 
 [Alexander's twitter](https://twitter.com/AlexanderJPetr1)
 
