@@ -20,8 +20,8 @@ Major Funding
 ======
 
 <p align="center" width="100%">
-    <img width="30%" src="http://sahlingroup.github.io/files/SciLifeLab_Logo.png"> 
-    <img width="30%" src="http://sahlingroup.github.io/files/vr_logo.jpeg"> 
+    <img width="40%" src="http://sahlingroup.github.io/files/SciLifeLab_Logo.png"> 
+    <img width="20%" src="http://sahlingroup.github.io/files/vr_logo.jpeg"> 
 </p>
 
 <!-- A data-driven personal website

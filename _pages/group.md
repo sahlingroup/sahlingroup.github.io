@@ -7,7 +7,11 @@ author_profile: true
 
 <h1>Current members</h1>
 
-<img align="left" width="33%" src="http://sahlingroup.github.io/files/profile_pic_2020.png">  Kristoffer Sahlin (PI) 
+**Kristoffer Sahlin (PI)**
+<img align="left" width="18%" src="http://sahlingroup.github.io/files/profile_pic_2020.png">  
 
-<img align="left" width="33%" src="http://sahlingroup.github.io/files/PetriPicture.jpg"> [Alexander Petri](https://twitter.com/AlexanderJPetr1) (PhD student)
+**Alexander Petri (PhD student)**
+<img align="left" width="18%" src="http://sahlingroup.github.io/files/PetriPicture.jpg"> 
+
+[Alexander's twitter](https://twitter.com/AlexanderJPetr1)
 
