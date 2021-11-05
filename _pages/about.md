@@ -16,6 +16,13 @@ Principal Investigator Biography
 I am an Assistant Professor at Stockholm University (the Department of Mathematics) and SciLifeLab Fellow at the national center for molecular biosciences, Science for Life Laboratory. I obtained my PhD in Computer science from KTH Royal institute of Technology and I have worked as a Postdoctoral researcher at Pennsylvania State University and at University of Helsinki. Before that I obtained a bachelor's degree in mathematics and a master's degree in mathematical statistics from Stockholm University, Sweden. See my <u><a href="http://sahlingroup.github.io/files/ksahlin_CV.pdf">full CV</a>.</u>
 
 
+Major Funding
+======
+
+<p align="center" width="100%">
+    <img width="30%" src="http://sahlingroup.github.io/files/SciLifeLab_Logo.png"> 
+    <img width="30%" src="http://sahlingroup.github.io/files/vr_logo.jpeg"> 
+</p>
 
 <!-- A data-driven personal website
 ======
