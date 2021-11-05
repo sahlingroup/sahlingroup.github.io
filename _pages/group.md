@@ -9,7 +9,7 @@ author_profile: true
 
 **Kristoffer Sahlin (PI)**
 
-<img align="left" width="15%" src="http://sahlingroup.github.io/files/profile_pic_2020.png">
+<img align="left" width="15%" src="http://sahlingroup.github.io/files/profile_pic_2020.png"> 
 \
 \
 \
@@ -18,7 +18,7 @@ author_profile: true
 
 **Alexander Petri (PhD student)**
 
-<img align="left" width="15%" src="http://sahlingroup.github.io/files/PetriPicture.jpg">
+<img align="left" width="15%" src="http://sahlingroup.github.io/files/PetriPicture.jpg"> 
 \
 \
 \
