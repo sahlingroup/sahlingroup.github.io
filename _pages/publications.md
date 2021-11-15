@@ -5,5 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-See a complete list on <u><a href="https://scholar.google.com/citations?user=IAGyYNEAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+See a complete list on my <a href="https://scholar.google.com/citations?user=IAGyYNEAAAAJ&hl=en">Google Scholar profile</a>.
 
