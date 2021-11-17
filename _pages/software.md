@@ -18,15 +18,15 @@ author_profile: true
 
 <h1>Genomics</h1>
 
-[NGSpeciesID](https://github.com/ksahlin/NGSpeciesID) is a software for reference-free clustering and consensus forming of long-read amplicon sequencing.
+[NGSpeciesID](https://github.com/ksahlin/NGSpeciesID): reference-free clustering and consensus forming of long-read amplicon sequencing.
 
-[BESST](https://github.com/ksahlin/BESST) is a software to perform de novo genome assembly scaffolding using Illumina mate-pairs or paired-end reads.
+[BESST](https://github.com/ksahlin/BESST): de novo genome assembly scaffolding using Illumina mate-pairs or paired-end reads.
 
-[BESST_RNA](https://github.com/ksahlin/BESST_RNA) is a software to perform de novo genome assembly scaffolding using Illumina paired-end RNA-seq reads.
+[BESST_RNA](https://github.com/ksahlin/BESST_RNA): de novo genome assembly scaffolding using Illumina paired-end RNA-seq reads.
 
 
 <h1>Alignment, mapping and sequence comparison</h1>
 
-[StrobeMap](https://github.com/ksahlin/strobemers) is a software to find all NAMs (local similar regions, roughly) between a set of query and reference sequences. 
+[StrobeMap](https://github.com/ksahlin/strobemers): finds all NAMs (local similar regions, roughly) between a set of query and reference sequences. 
 
-[StrobeAlign](https://github.com/ksahlin/StrobeAlign) is a software to map Illumina reads to a genome.
+[strobealign](https://github.com/ksahlin/StrobeAlign) ultra-fast short-read alignment tool.
