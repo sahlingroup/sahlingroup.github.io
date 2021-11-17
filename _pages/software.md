@@ -7,7 +7,7 @@ author_profile: true
 
 <h1>Transcriptomics</h1>
 
-[uLTRA](https://github.com/ksahlin/ultra): Aligns ONT cDNA and dRNA reads to a genome using a GTF annotation. Shown to be highly accurate for short exons.
+[uLTRA](https://github.com/ksahlin/ultra): Aligns PacBio Iso-Seq or ONT cDNA/dRNA reads to a genome using a GTF annotation. uLTRA is shown to be highly accurate for short exons.
 
 [isONcorrect](https://github.com/ksahlin/isONcorrect): Reference-free error correction of ONT cDNA and dRNA reads enabling reference free analysis of transcripts.
 
