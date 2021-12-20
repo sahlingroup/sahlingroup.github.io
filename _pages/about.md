@@ -16,6 +16,31 @@ Principal Investigator Biography
 I am an Assistant Professor at Stockholm University (the Department of Mathematics) and SciLifeLab Fellow at the national center for molecular biosciences, Science for Life Laboratory. I obtained my PhD in Computer science from KTH Royal institute of Technology and I have worked as a Postdoctoral researcher at Pennsylvania State University and at University of Helsinki. Before that I obtained a bachelor's degree in mathematics and a master's degree in mathematical statistics from Stockholm University, Sweden. See my <u><a href="http://sahlingroup.github.io/files/ksahlin_CV.pdf">full CV</a>.</u>
 
 
+News
+======
+
+<!-- #### 2022 #### -->
+<!-- 3. January: New member MSc student Benjamin Maier
+4. December:  paper out on barcoding in the wild in Nature Protocols lead by Prost Lab. -->
+
+#### 2021 ####
+:seedling: December: [paper](https://ieeexplore.ieee.org/document/9628018) out on transcriptome assembly, lead by [Tomescu Lab](https://www.cs.helsinki.fi/u/tomescu/#).
+:large_blue_diamond: November:  awarded with a starting grant from the Swedish Research Council (Vetenskapsrådet).
+:seedling: November: [paper](https://genome.cshlp.org/content/31/11/2080.short) in Genome Research describing strobemers, a seeding technique for sequence comparison
+:seedling: July: [paper](https://doi.org/10.1093/bioinformatics/btab540) out in Bioinformatics describing uLTRA, a spliced aligner of long transcriptomic reads together with [Veli Mäkinen](https://www2.helsinki.fi/en/researchgroups/genome-scale-algorithmics/people/veli-makinen)
+:speaking_head: July: Presented  ”Strobemers: an alternative to k-mers for sequence comparison” at HitSEQ (ISMB)
+:speaking_head: April: Presented  ”Accurate spliced alignment of long RNA sequencing reads.” at RECOMB-Seq
+:seedling: January: [paper](https://doi.org/10.1002/ece3.7146) out in Ecology and Evolution describing NGSpeciesID, a method for consensus calling of amplicon data together with [Stefan Prost](https://fieldprojects.org/stefan-prost/).
+:seedling: January: paper out on error correction of ONT cDNA data in Nature communications together with [Paul Medvedev](https://medvedevgroup.com/)
+
+#### 2020 ####
+
+<!-- * September 2020: New member PhD student Alex Petri -->
+:seedling: April: Our RECOMB [paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2019.0299) out on clustering ONT and PacBio cDNA data in JCB together with [Paul Medvedev](https://medvedevgroup.com/)
+:large_blue_diamond: January: started as a Scilifelab Fellow and assistant professor in the Department of Mathematics at Stockholm University. 
+
+
+
 Major Funding
 ======
 
