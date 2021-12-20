@@ -26,20 +26,20 @@ News
 #### 2021 ####
 
 
-🌱 December: [Paper](https://ieeexplore.ieee.org/document/9628018) out on transcriptome assembly, lead by [Tomescu Lab](https://www.cs.helsinki.fi/u/tomescu/#)\
-♦️ November:  Awarded with a starting grant from the Swedish Research Council (Vetenskapsrådet)\
-🌱 November: [Paper](https://genome.cshlp.org/content/31/11/2080.short) in Genome Research describing strobemers, a seeding technique for sequence comparison\
-🌱 July: [Paper](https://doi.org/10.1093/bioinformatics/btab540) out in Bioinformatics describing uLTRA, a spliced aligner of long transcriptomic reads together with [Veli Mäkinen](https://www2.helsinki.fi/en/researchgroups/genome-scale-algorithmics/people/veli-makinen)\
-🗣️ July: Presented  ”Strobemers: an alternative to k-mers for sequence comparison” at HitSEQ (ISMB)\
-🗣️ April: Presented  ”Accurate spliced alignment of long RNA sequencing reads.” at RECOMB-Seq\
-🌱 January: [Paper](https://doi.org/10.1002/ece3.7146) out in Ecology and Evolution describing NGSpeciesID, a method for consensus calling of amplicon data together with [Stefan Prost](https://fieldprojects.org/stefan-prost/)\
-🌱 January: [Paper](https://doi.org/10.1038/s41467-020-20340-8) out in Nature communications on error correction of ONT cDNA data together with [Paul Medvedev](https://medvedevgroup.com/)
+- 🌱 December: [Paper](https://ieeexplore.ieee.org/document/9628018) out on transcriptome assembly, lead by [Tomescu Lab](https://www.cs.helsinki.fi/u/tomescu/#)
+- ♦️ November:  Awarded with a starting grant from the Swedish Research Council (Vetenskapsrådet)
+- 🌱 November: [Paper](https://genome.cshlp.org/content/31/11/2080.short) in Genome Research describing strobemers, a seeding technique for sequence comparison
+- 🌱 July: [Paper](https://doi.org/10.1093/bioinformatics/btab540) out in Bioinformatics describing uLTRA, a spliced aligner of long transcriptomic reads together with [Veli Mäkinen](https://www2.helsinki.fi/en/researchgroups/genome-scale-algorithmics/people/veli-makinen)
+- 🗣️ July: Presented  ”Strobemers: an alternative to k-mers for sequence comparison” at HitSEQ (ISMB)
+- 🗣️ April: Presented  ”Accurate spliced alignment of long RNA sequencing reads.” at RECOMB-Seq
+- 🌱 January: [Paper](https://doi.org/10.1002/ece3.7146) out in Ecology and Evolution describing NGSpeciesID, a method for consensus calling of amplicon data together with [Stefan Prost](https://fieldprojects.org/stefan-prost/)
+- 🌱 January: [Paper](https://doi.org/10.1038/s41467-020-20340-8) out in Nature communications on error correction of ONT cDNA data together with [Paul Medvedev](https://medvedevgroup.com/)
 
 #### 2020 ####
 
 <!-- * September 2020: New member PhD student Alex Petri -->
-🌱 April: Our RECOMB [Paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2019.0299) out on clustering ONT and PacBio cDNA data in JCB together with [Paul Medvedev](https://medvedevgroup.com/)\
-♦️ January: started as a Scilifelab Fellow and assistant professor in the Department of Mathematics at Stockholm University
+- 🌱 April: Our RECOMB [Paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2019.0299) out on clustering ONT and PacBio cDNA data in JCB together with [Paul Medvedev](https://medvedevgroup.com/)
+- ♦️ January: started as a Scilifelab Fellow and assistant professor in the Department of Mathematics at Stockholm University
 
 
 
