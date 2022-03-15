@@ -34,7 +34,7 @@ author_profile: true
 
 **Benjamin Maier (MSc student)**
 
-<img align="left" width="15%" src="http://sahlingroup.github.io/files/Benjamin2.jpg"> 
+<img align="left" width="15%" src="http://sahlingroup.github.io/files/Benjamin2.png"> 
 \
 \
 \
