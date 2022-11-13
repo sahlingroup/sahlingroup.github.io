@@ -43,11 +43,13 @@ author_profile: true
 \
 
 **Moein Karami (Intern)**
+
 **Aryan Soltani (Intern)**
 
 
 <h1>Former members</h1>
 
 **Benjamin Maier (MSc student)** (Now PhD student at EMBL-EBI Cambridge)
+
 **Sebastian Lindbom Gunnari (BSc student)**
 <!-- <img align="left" width="15%" src="http://sahlingroup.github.io/files/Benjamin2.png">  -->
