@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-We use statistical modeling and algorithms to develop methods for analyzing large biological datasets. Particularly, we develop scalable algorithms for high-throughput genomic and transcriptomic sequencing data to study problems related to genome assembly, structural variation detection, and transcriptome analysis. We emphasize applicability of the methods and models to relevant biological and biomedical questions. 
+We develop algorithms and statistical models for analyzing large biological datasets. Particularly, we develop scalable algorithms for high-throughput genomic and transcriptomic sequencing data to study problems related to sequence alignment, genome assembly, structural variation detection, and transcriptome analysis. We emphasize applicability of the methods to relevant biological and biomedical questions. 
 
 Principal Investigator Biography
 ======
@@ -19,12 +19,15 @@ I am an Assistant Professor at Stockholm University (the Department of Mathemati
 News
 ======
 
-<!-- #### 2022 #### -->
+#### 2022 ####
+- ♦️ June:  Awarded with a long term bioinformatic funding grant from NBIS for maintenance and development of [strobealign](https://github.com/ksahlin/StrobeAlign), a fast and accurate short-read aligner based on strobemers seeding technique. (National Bioinformatics Infrastructure of Sweden)
+- ♦️ May:  Doctoral network grant LongTREC funded. Funds 11 PhD students. Lead PI Ana Conesa. funded. (Marie Skłodowska-Curie Actions)
+- 🌱 April: [Paper](https://www.nature.com/articles/s41596-022-00682-x) out in Nature Protocols on rapid in situ identification of biological specimens via DNA amplicon sequencing, lead by Stefan Prost.
+
 <!-- 3. January: New member MSc student Benjamin Maier
 4. December:  paper out on barcoding in the wild in Nature Protocols lead by Prost Lab. -->
 
 #### 2021 ####
-
 
 - 🌱 December: [Paper](https://ieeexplore.ieee.org/document/9628018) out on transcriptome assembly, lead by [Tomescu Lab](https://www.cs.helsinki.fi/u/tomescu/#)
 - ♦️ November:  Awarded with a starting grant from the Swedish Research Council (Vetenskapsrådet)

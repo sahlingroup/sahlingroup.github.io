@@ -18,6 +18,7 @@ author_profile: true
 \
 \
 \
+
 **Alexander Petri (PhD student)**
 
 <img align="left" width="15%" src="http://sahlingroup.github.io/files/PetriPicture.jpg"> 
@@ -29,14 +30,24 @@ author_profile: true
 \
 \
 [Alexander's twitter](https://twitter.com/AlexanderJPetr1)
+
+**Ivan Tolstoganov (PhD student)**
+
+<img align="left" width="15%" src="http://sahlingroup.github.io/files/Ivan_T.png"> 
+\
+\
+\
+\
+\
+\
 \
 
-**Benjamin Maier (MSc student)**
+**Moein Karami (Intern)**
+**Aryan Soltani (Intern)**
 
-<img align="left" width="15%" src="http://sahlingroup.github.io/files/Benjamin2.png"> 
-\
-\
-\
-\
-\
-\
+
+<h1>Former members</h1>
+
+**Benjamin Maier (MSc student)** (Now PhD student at EMBL-EBI Cambridge)
+**Sebastian Lindbom Gunnari (BSc student)**
+<!-- <img align="left" width="15%" src="http://sahlingroup.github.io/files/Benjamin2.png">  -->
