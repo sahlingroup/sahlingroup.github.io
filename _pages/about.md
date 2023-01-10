@@ -16,7 +16,7 @@ Principal Investigator Biography
 I am an Assistant Professor at Stockholm University (the Department of Mathematics) and SciLifeLab Fellow at the national center for molecular biosciences, Science for Life Laboratory. I obtained my PhD in Computer science from KTH Royal institute of Technology and I have worked as a Postdoctoral researcher at Pennsylvania State University and at University of Helsinki. Before that I obtained a bachelor's degree in mathematics and a master's degree in mathematical statistics from Stockholm University, Sweden. See my <u><a href="http://sahlingroup.github.io/files/ksahlin_CV.pdf">full CV</a>.</u>
 
 
-News
+<!-- News
 ======
 
 #### 2022 ####
@@ -24,10 +24,9 @@ News
 - ♦️ May:  Doctoral network grant LongTREC funded. Funds 11 PhD students. Lead PI Ana Conesa. funded. (Marie Skłodowska-Curie Actions)
 - 🌱 April: [Paper](https://www.nature.com/articles/s41596-022-00682-x) out in Nature Protocols on rapid in situ identification of biological specimens via DNA amplicon sequencing, lead by Stefan Prost.
 
-<!-- 3. January: New member MSc student Benjamin Maier
-4. December:  paper out on barcoding in the wild in Nature Protocols lead by Prost Lab. -->
+ -->
 
-#### 2021 ####
+<!-- #### 2021 ####
 
 - 🌱 December: [Paper](https://ieeexplore.ieee.org/document/9628018) out on transcriptome assembly, lead by [Tomescu Lab](https://www.cs.helsinki.fi/u/tomescu/#)
 - ♦️ November:  Awarded with a starting grant from the Swedish Research Council (Vetenskapsrådet)
@@ -37,14 +36,15 @@ News
 - 🗣️ April: Presented  ”Accurate spliced alignment of long RNA sequencing reads.” at RECOMB-Seq
 - 🌱 January: [Paper](https://doi.org/10.1002/ece3.7146) out in Ecology and Evolution describing NGSpeciesID, a method for consensus calling of amplicon data together with [Stefan Prost](https://fieldprojects.org/stefan-prost/)
 - 🌱 January: [Paper](https://doi.org/10.1038/s41467-020-20340-8) out in Nature communications on error correction of ONT cDNA data together with [Paul Medvedev](https://medvedevgroup.com/)
+ -->
 
-#### 2020 ####
+<!-- #### 2020 ####
 
-<!-- * September 2020: New member PhD student Alex Petri -->
 - 🌱 April: Our RECOMB [Paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2019.0299) out on clustering ONT and PacBio cDNA data in JCB together with [Paul Medvedev](https://medvedevgroup.com/)
 - ♦️ January: started as a Scilifelab Fellow and assistant professor in the Department of Mathematics at Stockholm University
 
-
+ -->
+ 
 
 Major Funding
 ======

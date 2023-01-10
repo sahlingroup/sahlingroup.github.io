@@ -7,7 +7,7 @@ author_profile: true
 
 <h1>Current members</h1>
 
-**Kristoffer Sahlin (PI)**
+Kristoffer Sahlin (PI)
 
 <img align="left" width="15%" src="http://sahlingroup.github.io/files/profile_pic_2020.png"> 
 \
@@ -19,7 +19,7 @@ author_profile: true
 \
 \
 
-**Alexander Petri (PhD student)**
+Alexander Petri (PhD student)
 
 <img align="left" width="15%" src="http://sahlingroup.github.io/files/PetriPicture.jpg"> 
 \
@@ -31,7 +31,7 @@ author_profile: true
 \
 [Alexander's twitter](https://twitter.com/AlexanderJPetr1)
 
-**Ivan Tolstoganov (PhD student)**
+Ivan Tolstoganov (PhD student)
 
 <img align="left" width="15%" src="http://sahlingroup.github.io/files/Ivan_T.png"> 
 \
@@ -42,14 +42,14 @@ author_profile: true
 \
 \
 
-**Moein Karami (Intern)**
+Moein Karami (Intern)
 
-**Aryan Soltani (Intern)**
+Aryan Soltani (Intern)
 
 
 <h1>Former members</h1>
 
-**Benjamin Maier (MSc student)** (Now PhD student at EMBL-EBI Cambridge)
+Benjamin Maier (MSc student) (Now PhD student at EMBL-EBI Cambridge)
 
-**Sebastian Lindbom Gunnari (BSc student)**
+Sebastian Lindbom Gunnari (BSc student)
 <!-- <img align="left" width="15%" src="http://sahlingroup.github.io/files/Benjamin2.png">  -->
