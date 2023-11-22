@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Kristoffer+Sahlin"
   googlescholar    : "https://scholar.google.com/citations?user=IAGyYNEAAAAJ&hl=us"
-  email            : <a href="mailto:ksahlin@math.su.se">ksahlin@<span style="display:none;">ignoreme-</span>math.su.se</a>
+  email            : "mailto:ksahlin@math.su.se"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
