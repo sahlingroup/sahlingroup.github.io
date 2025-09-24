@@ -16,21 +16,21 @@ author_profile: true
 
 # Former members
 
-#### PhD students
+### PhD students
 
 - Dr. Alexander Petri (2020-2025)
 
-#### MSc students
+### MSc students
 
 - Benjamin Maier (2022, Now a PhD student at EMBL-EBI Cambridge)
 
-#### BSc students
+### BSc students
 
 - Rebecca Jana Nikkelen (2025)
 - Florence Hugh (2024)
 - Sebastian Lindbom Gunnari (2022)
 
-#### Internship students
+### Internship students
 
 - Nicolas Buchin (2025, Now a PhD student in my group)
 - Moein Karami (2022)
