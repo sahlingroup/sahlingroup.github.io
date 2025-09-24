@@ -52,7 +52,7 @@ Major Funding
 <p align="center" width="100%">
     <img width="30%" src="http://sahlingroup.github.io/files/SciLifeLab_Logo.png"> 
     <img width="25%" src="http://sahlingroup.github.io/files/vr_logo.jpeg"> 
-    <img width="25%" src="http://sahlingroup.github.io/files/kaw_logotype_large_en.jpeg"> 
+    <img width="25%" src="http://sahlingroup.github.io/files/kaw_logotype_large_en.jpg"> 
 
 </p>
 
