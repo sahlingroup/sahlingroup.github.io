@@ -22,7 +22,7 @@ author_profile: true
 
 ### MSc students
 
-- Benjamin Maier (2022, Now a PhD student at EMBL-EBI Cambridge)
+- Benjamin Maier (2022, now a PhD student at EMBL-EBI Cambridge)
 
 ### BSc students
 
@@ -32,7 +32,7 @@ author_profile: true
 
 ### Internship students
 
-- Nicolas Buchin (2025, Now a PhD student in my group)
+- Nicolas Buchin (2025)
 - Moein Karami (2022)
 - Aryan Soltani (2022)
 
