@@ -62,6 +62,9 @@ author_profile: true
   <h2>Current Members</h2>
   <ul class="member-list">
     <li><span class="member-name">Kristoffer Sahlin</span><span class="member-role">PI</span></li>
+    <!-- <li><span class="member-name">Anton Alfonsson</span><span class="member-role">PhD student</span></li> -->
+    <!-- <li><span class="member-name">Josipa Lipovac</span><span class="member-role">PhD student</span></li> -->
+    <!-- <li><span class="member-name">Nicola Rizzoc</span><span class="member-role">PhD student</span></li> -->
     <li><span class="member-name">Ivan Tolstoganov</span><span class="member-role">PhD student</span></li>
     <li><span class="member-name">Sami Mahmud Aydin</span><span class="member-role">PhD student</span></li>
     <li><span class="member-name">Nicolas Buchin</span><span class="member-role">PhD student</span></li>
@@ -79,7 +82,7 @@ author_profile: true
 
   <h3>MSc Students</h3>
   <ul class="member-list">
-    <li><span class="member-name">Benjamin Maier</span><span class="member-role">2022</span><span class="member-note">now a PhD student at EMBL-EBI Cambridge</span></li>
+    <li><span class="member-name"><a href="https://benjamindominikmaier.github.io/">Benjamin Maier</a></span><span class="member-role">2022</span><span class="member-note">now a PhD student at EMBL-EBI Cambridge</span></li>
   </ul>
 
   <h3>BSc Students</h3>
@@ -93,7 +96,7 @@ author_profile: true
   <ul class="member-list">
     <li><span class="member-name">Fabio Zanarello</span><span class="member-role">Visiting PhD student, 2025</span></li>
     <li><span class="member-name">Carmen Lafuente</span><span class="member-role">Visiting PhD student, 2025</span></li>
-    <li><span class="member-name">Tomas Baudeau</span><span class="member-role">Visiting PhD student, 2023</span></li>
+    <li><span class="member-name"><a href="https://thomasbaudeau.github.io/">Tomas Baudeau</a></span><span class="member-role">Visiting PhD student, 2023</span></li>
     <li><span class="member-name">Nicolas Buchin</span><span class="member-role">Internship, 2025</span></li>
     <li><span class="member-name">Moein Karami</span><span class="member-role">Internship, 2022</span></li>
     <li><span class="member-name">Aryan Soltani</span><span class="member-role">Internship, 2022</span></li>
