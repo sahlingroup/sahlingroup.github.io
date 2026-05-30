@@ -62,12 +62,12 @@ author_profile: true
   <h2>Current Members</h2>
   <ul class="member-list">
     <li><span class="member-name">Kristoffer Sahlin</span><span class="member-role">PI</span></li>
-    <!-- <li><span class="member-name">Anton Alfonsson</span><span class="member-role">PhD student</span></li> -->
-    <!-- <li><span class="member-name">Josipa Lipovac</span><span class="member-role">Postdoc</span></li> -->
-    <!-- <li><span class="member-name">Nicola Rizzo</span><span class="member-role">Postdoc</span></li> -->
-    <li><span class="member-name">Ivan Tolstoganov</span><span class="member-role">PhD student</span></li>
-    <li><span class="member-name">Sami Mahmud Aydin</span><span class="member-role">PhD student</span></li>
-    <li><span class="member-name">Nicolas Buchin</span><span class="member-role">PhD student</span></li>
+  <!--   <li><span class="member-name">Josipa Lipovac</span><span class="member-role">Postdoc, 2026–</span></li> -->
+  <!--  <li><span class="member-name">Nicola Rizzo</span><span class="member-role">Postdoc, 2026–</span></li> -->
+    <li><span class="member-name">Ivan Tolstoganov</span><span class="member-role">PhD student, 2022–</span></li>
+    <li><span class="member-name">Sami Mahmud Aydin</span><span class="member-role">PhD student, 2023–</span></li>
+    <li><span class="member-name">Nicolas Buchin</span><span class="member-role">PhD student, 2025–</span></li>
+   <!--  <li><span class="member-name">Anton Alfonsson</span><span class="member-role">PhD student, 2026–</span></li> -->
     <li><span class="member-name">Marcel Martin</span><span class="member-role">Project contractor</span></li>
   </ul>
 </div>
