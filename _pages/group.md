@@ -91,9 +91,9 @@ author_profile: true
 
   <h3>Visitors &amp; Internship Students</h3>
   <ul class="member-list">
-    <li><span class="member-name">Tomas Baudeau</span><span class="member-role">Visiting PhD student, 2022</span></li>
     <li><span class="member-name">Fabio Zanarello</span><span class="member-role">Visiting PhD student, 2025</span></li>
     <li><span class="member-name">Carmen Lafuente</span><span class="member-role">Visiting PhD student, 2025</span></li>
+    <li><span class="member-name">Tomas Baudeau</span><span class="member-role">Visiting PhD student, 2023</span></li>
     <li><span class="member-name">Nicolas Buchin</span><span class="member-role">Internship, 2025</span></li>
     <li><span class="member-name">Moein Karami</span><span class="member-role">Internship, 2022</span></li>
     <li><span class="member-name">Aryan Soltani</span><span class="member-role">Internship, 2022</span></li>
